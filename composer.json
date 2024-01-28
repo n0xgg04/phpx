@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "php -S localhost:8000"
+  },
+  "autoload": {
+    "psr-4": {
+      "Common\\": "./Common/"
+    }
+  }
+}
